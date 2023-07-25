@@ -6,4 +6,4 @@ DML.
 Indexing.    
 Auto - increment.    
 Views.    
-phpMyAdmim.    
+phpMyAdmim.
